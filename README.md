@@ -4,4 +4,4 @@ Simple Random Neko Illust Getter
 Made with Spring boot & React.js + Typescrip
 
 * Main page
-![image](https://user-images.githubusercontent.com/51194584/208084920-7a337fb8-c060-4cee-a891-cd67538606ec.png)
+![Shape 2 copy 2](https://user-images.githubusercontent.com/51194584/208087119-0493891f-4ab6-410d-bebf-6df62d559f2c.png)
